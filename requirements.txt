@@ -6,6 +6,7 @@ brotlipy==0.7.0
 cffi==1.14.0
 click==7.1.2
 cycler==0.10.0
+collections==3.11.1
 daal4py==2021.6.0
 decorator==4.4.2
 defusedxml==0.6.0
