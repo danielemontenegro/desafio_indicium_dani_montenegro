@@ -7,34 +7,25 @@ https://jtemporal.com/requirements-txt/
 
 ### Criando a env para o projeto
 
-'''
-
-conda create --name nome_env
-
-'''
+<pre><code>conda create --name nome_env
+</code></pre>
 
 ### Ativando a env
 
-'''
+<pre><code>conda activate nome_env
+</code></pre>
 
-conda activate nome_env
-
-'''
 
 ### Instalando as dependências
 
-'''
+<pre><code>pip install requeriments.txt
+</code></pre>
 
-pip install requeriments.txt
-
-'''
 
 ### Run no projeto (pelo terminal)
 
-'''
+<pre><code>jupyter notebook
+</code></pre>
 
-jupyter notebook
-
-'''
 
 
