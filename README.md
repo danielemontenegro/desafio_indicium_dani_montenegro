@@ -1,9 +1,7 @@
-https://jtemporal.com/requirements-txt/
 
 <h1 align="center">[INDICIUM] - Processo Seletivo - Lighthouse Programa de Formação em Dados (Remoto)</h1>
 
 #### Autora: Daniele Montenegro
-
 
 ### Criando a env para o projeto
 
@@ -15,6 +13,10 @@ https://jtemporal.com/requirements-txt/
 <pre><code>conda activate nome_env
 </code></pre>
 
+### Clonando o projeto
+
+<pre><code>git clone https://github.com/danielemontenegro/desafio_indicium_dani_montenegro.git
+</code></pre>
 
 ### Instalando as dependências
 
